@@ -6,7 +6,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 const Map<String, String> UNIT_ID = kReleaseMode
     ? {
-        'ios': '[YOUR iOS AD UNIT ID]',
+        'ios': 'ca-app-pub-6970795657186211/6113194854',
         'android': 'ca-app-pub-6970795657186211/5778121111',
       }
     : {
